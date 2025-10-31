@@ -1,0 +1,17 @@
+{
+  "name": "DonkeyBlast",
+  "symbol": "DBC",
+  "description": "The funniest meme token on Solana. Complete tasks, earn $DBC, and join the blast!",
+  "image": "https://imgur.com/a/kizMIwI",
+  "external_url": "https://donkeyblast.xyz",
+  "attributes": [
+    { "trait_type": "Type", "value": "Meme Token" },
+    { "trait_type": "Chain", "value": "Solana" }
+  ],
+  "properties": {
+    "files": [
+      { "uri": "https://imgur.com/a/kizMIwI", "type": "image/jpeg" }
+    ],
+    "category": "image"
+  }
+}
